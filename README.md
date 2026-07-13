@@ -59,6 +59,14 @@ The optimal number of clusters was determined using the **Elbow Method (K = 5)**
 
 The model successfully identified five different customer groups based on their purchasing behavior.
 
+## 📈 Elbow Method
+
+![Elbow Method](elbow_method.png)
+
+## 🎯 Customer Segmentation
+
+![Customer Segmentation](customer_segments.png)
+
 ---
 
 ## 💡 Business Insights
