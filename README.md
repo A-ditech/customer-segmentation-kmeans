@@ -61,12 +61,13 @@ The model successfully identified five different customer groups based on their 
 
 ## 📈 Elbow Method
 
-![Elbow Method](elbow_method.png)
+![Elbow Method]
 <img width="733" height="482" alt="Image" src="https://github.com/user-attachments/assets/0ea3f107-5cea-4426-a3c2-7d50a64c5949" />
 
 ## 🎯 Customer Segmentation
 
-![Customer Segmentation](customer_segments.png)
+![Customer Segmentation]
+<img width="871" height="628" alt="Image" src="https://github.com/user-attachments/assets/3c4b0171-916a-4514-9625-d360ec61cdcd" />
 
 ---
 
